@@ -1,0 +1,2 @@
+# tasks.py
+amaliyotlarni qilamiz
